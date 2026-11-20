@@ -1,0 +1,16 @@
+# Virtual environment
+fastapi_lab_env/
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest cache and reports
+.pytest_cache/
+pytest-report.xml
+
+# Editor / OS
+.vscode/
+.DS_Store
